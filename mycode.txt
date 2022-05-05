@@ -1,0 +1,4 @@
+num a = 10 + 2 ;
+num b = 5 + 35 ;
+when ( a != b ) { print ## True ## 
+
